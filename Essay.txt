@@ -1,0 +1,6 @@
+1) Framework adalah seperangkat alat dan aturan yang membantu para pengembang untuk membangun aplikasi dengan lebih cepat dan efisien.
+2) 1. Sistem Online Klinik
+   2. - Bayu Tera Hermawan - Backend
+      - Fadlan Fatardilla Sumaila - Front End
+      - Hedi Fazli - Data Analyst
+3) Terdapat sebuah kendala pada klinik tersebut adalah tidak adanya sebuah metode untuk melakukan penjadwalan secara online. Ini akan membuat para calon pasien harus datang dan mendaftar offline ke klinik tersebut yang dampaknya bisa membuat antrian jika para calon pasien mendaftar dalam waktu yang bersamaan. hipotesa solusi yang kami usung adalah membuat sistem penjadwalan secara online pada website/aplikasi klinik yang bertujuan agar para calon pasien tidak harus mendaftar secara offline dan membuat menjadi lebih praktis dan efisien.
